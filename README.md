@@ -2,7 +2,8 @@
 
 تطبيق عربي كامل لعرض حالة الطقس الحالية في أي مدينة في العالم، بتصميم أنيق وسرعة فائقة.
 
-![Weather App Preview](<img width="1910" height="956" alt="image" src="https://github.com/user-attachments/assets/60327bdb-523f-4742-a012-fb32af021e25" />
+<img width="1910" height="956" alt="image" src="https://github.com/user-attachments/assets/bef32d83-93cf-4b18-ae6f-4919f01548db" />
+
 ) <!-- لو عايز تضيف صورة لاحقًا -->
 
 ### المميزات
