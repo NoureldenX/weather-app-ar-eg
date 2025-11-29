@@ -28,6 +28,8 @@
 1. اعمل `git clone https://github.com/اسمك/weather-app-ar.git`
 2. افتح المجلد وافتح `index.html` في المتصفح
 3. اكتب اسم المدينة واستمتع!
+### Files
+wether app/index.html
 
 ```bash
 git clone https://github.com/اسمك/weather-app-ar.git
