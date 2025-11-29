@@ -30,7 +30,9 @@
 3. اكتب اسم المدينة واستمتع!
 ### Files
 Html: https://github.com/NoureldenX/weather-app-ar-eg/blob/main/wether%20app/index.html
+
 JS : https://github.com/NoureldenX/weather-app-ar-eg/blob/main/wether%20app/main.js
+
 CSS : https://github.com/NoureldenX/weather-app-ar-eg/blob/main/wether%20app/style.css
 
 ```bash
